@@ -1,4 +1,4 @@
-Gazeteler üzerinze
+Gazeteler üzerine</h1>
 <a href="https://gazeteapp.com"><strong>Gazeteler</strong></a>, tüm toplumların kullandığı iletişim araçlarından bir tanesidir. Gazeteler,
 temelinde halka bilgi akışını sağlamak, güncel olayları paylaşmak ve olaylar hakkında
 toplumlara ya da belirli bir kitleye bilgi vermeyi güder. Gazeteler bir nevi güncel bilgi
@@ -6,6 +6,7 @@ kaynaklarıdır. Gazete terimleri nelerdir sorusundan önce gazetelerin birçok 
 bulunmaktadır. Bazı çeşitler; Medya, Magazin, Siyaset, Bilim, Tarih, Kültür, Sanat, Politika,
 Sosyal Konular, Sağlık ve Finans gibi konular en popüler örneklerdir. Bu gazeteler günlük ya
 da haftalık olarak okuyucularına hizmet etmektedirler.
+<h3>Gazeteler</h3>
 Gelişen teknoloji ile birlikte gazeteler, yayın niteliğini değiştirmişlerdir. Online platformlar
 çoğalmaya başlamış ve gelişmeye başlamıştır. Bununla beraber Tiraj ile yayın yapan
 gazeteler, sürat ile dijitalleşmeye başlamıştır. Günümüzde Tiraj ile yayın yapan gazetelerin
@@ -21,7 +22,7 @@ gazetelerin eksilmemesini getirmiştir. Gazetelerin tiraj sayısı azalmaya baş
 ekonomik olarak güçlük çekmişlerdir. Bu durumun önüne geçmeyi hedefleyen gazeteler,
 dijital medyaya yoğunluk vererek, okuyucularını oradan yakalamaya çalışmıştır. Online
 olarak yayın yapan gazeteler ise geniş kitlelere seslenebilme avantajını sağlamışlardır.
-Gazetenin Kısa Tarihi
+<h4>Gazetenin Kısa Tarihi</h4>
 Gazete, ilk Roma İmparatorluğunda kullanılmıştır. Yüzyıllar önce üretilen gazete iki bin adet üretilmişti.
 İmparatorluğun belirli kesimlerine iletilen gazete, krallığın kazandığı toprakları, başarılarını, gladyatör savaşlarını,
 getirilen kurulları ve sosyal olayları anlatıyor. Gazeteyi, ilerleyen yıllarda Çin kullanacaktı. Çin’den sonra tüm
