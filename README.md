@@ -1,5 +1,5 @@
 Gazeteler üzerine</h1>
-<a href="https://gazeteapp.com"><strong>Gazeteler</strong></a>, tüm toplumların kullandığı iletişim araçlarından bir tanesidir. Gazeteler,
+<a href="https://gazeteapp.com" rel="dofollow"><strong>Gazeteler</strong></a>, tüm toplumların kullandığı iletişim araçlarından bir tanesidir. Gazeteler,
 temelinde halka bilgi akışını sağlamak, güncel olayları paylaşmak ve olaylar hakkında
 toplumlara ya da belirli bir kitleye bilgi vermeyi güder. Gazeteler bir nevi güncel bilgi
 kaynaklarıdır. Gazete terimleri nelerdir sorusundan önce gazetelerin birçok çeşidi
